@@ -1,0 +1,1 @@
+# preprod-cd-cms-service-uwsgi
